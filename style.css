@@ -12,7 +12,7 @@ html{
 }
 
 body{
-    background-color: #ffa033ec;
+    background-color: #ffffffec;
     height: 100%;
 }
 
@@ -33,7 +33,7 @@ a{
 }
 
 .degrade{
-    background: linear-gradient(to right, #ffffff, #ffffff);
+    background: linear-gradient(to right, #e07f10, #db8009);
 }
 
 /* ESTILO DO HEADER */
