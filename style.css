@@ -12,7 +12,7 @@ html{
 }
 
 body{
-    background-color: #2d2c2eec;
+    background-color: #2b2a2aec;
     height: 100%;
 }
 
@@ -33,7 +33,7 @@ a{
 }
 
 .degrade{
-    background: linear-gradient(to right, #ff4cf6, #db09ae);
+    background: linear-gradient(to right, #fffeff, #dbbcd5);
 }
 
 /* ESTILO DO HEADER */
@@ -52,7 +52,7 @@ header img{
 header h1{
     font-size: 2em;
     margin-bottom: 10px;
-    color: #ffffff;
+    color: #000000;
     font-weight: 300;
 }
 
